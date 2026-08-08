@@ -1,0 +1,586 @@
+{
+  "oval": [
+    {
+      "name": "French Crop",
+      "slug": "french_crop",
+      "description": "Potongan pendek dengan poni lurus ke depan. Simpel, rapi, dan cocok untuk aktivitas sehari-hari.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "short",
+        "clean",
+        "low-maintenance"
+      ],
+      "images": [
+        "oval/french_crop/french_crop_1.jpg",
+        "oval/french_crop/french_crop_2.jpg",
+        "oval/french_crop/french_crop_3.jpg"
+      ]
+    },
+    {
+      "name": "Pompadour",
+      "slug": "pompadour",
+      "description": "Volume tinggi ke atas dengan sisi lebih pendek. Gaya klasik yang dramatis dan elegan.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "classic",
+        "volume",
+        "styled"
+      ],
+      "images": [
+        "oval/pompadour/pompadour_1.jpg",
+        "oval/pompadour/pompadour_2.jpg",
+        "oval/pompadour/pompadour_3.jpg"
+      ]
+    },
+    {
+      "name": "Quiff",
+      "slug": "quiff",
+      "description": "Rambut depan disisir ke atas dan belakang dengan sisi taper. Versatile untuk casual maupun formal.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "volume",
+        "styled",
+        "versatile"
+      ],
+      "images": [
+        "oval/quiff/quiff_1.jpg",
+        "oval/quiff/quiff_2.jpg",
+        "oval/quiff/quiff_3.jpg"
+      ]
+    },
+    {
+      "name": "Slick Back",
+      "slug": "slick_back",
+      "description": "Rambut disisir rapi ke belakang. Tampilan profesional dan bersih yang cocok untuk acara formal.",
+      "hair_type": [
+        "lurus"
+      ],
+      "tags": [
+        "formal",
+        "clean",
+        "classic"
+      ],
+      "images": [
+        "oval/slick_back/slick_back_1.jpg",
+        "oval/slick_back/slick_back_2.jpg",
+        "oval/slick_back/slick_back_3.jpg"
+      ]
+    },
+    {
+      "name": "Textured Crop",
+      "slug": "textured_crop",
+      "description": "Potongan pendek dengan tekstur acak di bagian atas. Modern, mudah dirawat, dan cocok untuk semua kesempatan.",
+      "hair_type": [
+        "lurus",
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "short",
+        "modern",
+        "low-maintenance"
+      ],
+      "images": [
+        "oval/textured_crop/textured_crop_1.jpg",
+        "oval/textured_crop/textured_crop_2.jpg",
+        "oval/textured_crop/textured_crop_3.jpg"
+      ]
+    }
+  ],
+  "round": [
+    {
+      "name": "Comb Over Fade",
+      "slug": "comb_over_fade",
+      "description": "Rambut disisir ke samping dengan fade di sisi. Memberikan kesan wajah lebih panjang dan terdefinisi.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "elongating",
+        "modern",
+        "fade"
+      ],
+      "images": [
+        "round/comb_over_fade/comb_over_fade_1.jpg",
+        "round/comb_over_fade/comb_over_fade_2.jpg",
+        "round/comb_over_fade/comb_over_fade_3.jpg"
+      ]
+    },
+    {
+      "name": "Faux Hawk",
+      "slug": "faux_hawk",
+      "description": "Puncak runcing di tengah dengan sisi fade. Memberikan definisi dan kesan wajah lebih panjang.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "edgy",
+        "defining",
+        "volume"
+      ],
+      "images": [
+        "round/faux_hawk/faux_hawk_1.jpg",
+        "round/faux_hawk/faux_hawk_2.jpg",
+        "round/faux_hawk/faux_hawk_3.jpg"
+      ]
+    },
+    {
+      "name": "Mohawk",
+      "slug": "mohawk",
+      "description": "Jalur rambut di tengah dengan sisi dicukur pendek. Bold dan berani, cocok untuk tampilan yang mencolok.",
+      "hair_type": [
+        "lurus",
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "bold",
+        "edgy",
+        "defining"
+      ],
+      "images": [
+        "round/mohawk/mohawk_1.jpg",
+        "round/mohawk/mohawk_2.jpg",
+        "round/mohawk/mohawk_3.jpg"
+      ]
+    },
+    {
+      "name": "Side Part",
+      "slug": "side_part",
+      "description": "Belahan samping yang menciptakan asimetri dan memanjangkan tampilan wajah secara visual.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "classic",
+        "asymmetric",
+        "elongating"
+      ],
+      "images": [
+        "round/side_part/side_part_1.jpg",
+        "round/side_part/side_part_2.jpg",
+        "round/side_part/side_part_3.jpg"
+      ]
+    },
+    {
+      "name": "Undercut",
+      "slug": "undercut",
+      "description": "Sisi dicukur pendek dengan bagian atas lebih panjang. Kontras yang kuat memberikan kesan wajah lebih ramping.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "modern",
+        "contrast",
+        "elongating"
+      ],
+      "images": [
+        "round/undercut/undercut_1.jpg",
+        "round/undercut/undercut_2.jpg",
+        "round/undercut/undercut_3.jpg"
+      ]
+    }
+  ],
+  "square": [
+    {
+      "name": "Brush Up",
+      "slug": "brush_up",
+      "description": "Rambut disisir ke atas dengan tekstur natural. Melunakkan garis rahang yang tegas.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "volume",
+        "soft",
+        "modern"
+      ],
+      "images": [
+        "square/brush_up/brush_up_1.jpg",
+        "square/brush_up/brush_up_2.jpg",
+        "square/brush_up/brush_up_3.jpg"
+      ]
+    },
+    {
+      "name": "Caesar Cut",
+      "slug": "caesar_cut",
+      "description": "Poni lurus ke depan dengan panjang merata. Gaya klasik yang melunakkan fitur wajah angular.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "classic",
+        "short",
+        "soft"
+      ],
+      "images": [
+        "square/caesar_cut/caesar_cut_1.jpg",
+        "square/caesar_cut/caesar_cut_2.jpg",
+        "square/caesar_cut/caesar_cut_3.jpg"
+      ]
+    },
+    {
+      "name": "Crew Cut",
+      "slug": "crew_cut",
+      "description": "Potongan pendek merata dengan tekstur di atas. Rapi, maskulin, dan mudah dirawat.",
+      "hair_type": [
+        "lurus",
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "short",
+        "clean",
+        "masculine"
+      ],
+      "images": [
+        "square/crew_cut/crew_cut_1.jpg",
+        "square/crew_cut/crew_cut_2.jpg",
+        "square/crew_cut/crew_cut_3.jpg"
+      ]
+    },
+    {
+      "name": "Ivy League",
+      "slug": "ivy_league",
+      "description": "Gaya preppy klasik dengan belahan samping rapi. Elegan dan cocok untuk kesan profesional.",
+      "hair_type": [
+        "lurus"
+      ],
+      "tags": [
+        "classic",
+        "formal",
+        "elegant"
+      ],
+      "images": [
+        "square/ivy_league/ivy_league_1.jpg",
+        "square/ivy_league/ivy_league_2.jpg",
+        "square/ivy_league/ivy_league_3.jpg"
+      ]
+    },
+    {
+      "name": "Natural Waves",
+      "slug": "natural_waves",
+      "description": "Gelombang alami yang melembutkan fitur wajah angular. Cocok untuk rambut yang memiliki tekstur bergelombang.",
+      "hair_type": [
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "natural",
+        "soft",
+        "relaxed"
+      ],
+      "images": [
+        "square/natural_waves/natural_waves_1.jpg",
+        "square/natural_waves/natural_waves_2.jpg",
+        "square/natural_waves/natural_waves_3.jpg"
+      ]
+    }
+  ],
+  "heart": [
+    {
+      "name": "Buzz Cut",
+      "slug": "buzz_cut",
+      "description": "Potongan sangat pendek merata. Minimalis dan menonjolkan fitur wajah secara natural.",
+      "hair_type": [
+        "lurus",
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "short",
+        "minimal",
+        "clean"
+      ],
+      "images": [
+        "heart/buzz_cut/buzz_cut_1.jpg",
+        "heart/buzz_cut/buzz_cut_2.jpg",
+        "heart/buzz_cut/buzz_cut_3.jpg"
+      ]
+    },
+    {
+      "name": "Curtains",
+      "slug": "curtains",
+      "description": "Poni terbelah di tengah yang menutupi sisi dahi. Cocok untuk menyeimbangkan dahi yang lebih lebar.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "trendy",
+        "soft",
+        "balanced"
+      ],
+      "images": [
+        "heart/curtains/curtains_1.jpg",
+        "heart/curtains/curtains_2.jpg",
+        "heart/curtains/curtains_3.jpg"
+      ]
+    },
+    {
+      "name": "Messy",
+      "slug": "messy",
+      "description": "Gaya acak-acakan yang natural dan effortless. Menutupi dahi dan memberikan kesan lebih santai.",
+      "hair_type": [
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "casual",
+        "natural",
+        "relaxed"
+      ],
+      "images": [
+        "heart/messy/messy_1.jpg",
+        "heart/messy/messy_2.jpg",
+        "heart/messy/messy_3.jpg"
+      ]
+    },
+    {
+      "name": "Shaggy",
+      "slug": "shaggy",
+      "description": "Potongan berlapis dengan tekstur acak di seluruh kepala. Memberikan volume di area rahang untuk menyeimbangkan.",
+      "hair_type": [
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "layered",
+        "volume",
+        "balanced"
+      ],
+      "images": [
+        "heart/shaggy/shaggy_1.jpg",
+        "heart/shaggy/shaggy_2.jpg",
+        "heart/shaggy/shaggy_3.jpg"
+      ]
+    },
+    {
+      "name": "Textured Fringe",
+      "slug": "textured_fringe",
+      "description": "Poni bertekstur ke depan yang mempersempit tampilan dahi. Modern dan mudah distyling.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "modern",
+        "fringe",
+        "balanced"
+      ],
+      "images": [
+        "heart/textured_fringe/textured_fringe_1.jpg",
+        "heart/textured_fringe/textured_fringe_2.jpg",
+        "heart/textured_fringe/textured_fringe_3.jpg"
+      ]
+    }
+  ],
+  "oblong": [
+    {
+      "name": "Bowl Cut",
+      "slug": "bowl_cut",
+      "description": "Potongan melingkar seperti mangkuk yang mempertegas lebar wajah secara visual.",
+      "hair_type": [
+        "lurus"
+      ],
+      "tags": [
+        "retro",
+        "bold",
+        "widening"
+      ],
+      "images": [
+        "oblong/bowl_cut/bowl_cut_1.jpg",
+        "oblong/bowl_cut/bowl_cut_2.jpg",
+        "oblong/bowl_cut/bowl_cut_3.jpg"
+      ]
+    },
+    {
+      "name": "Bro Flow",
+      "slug": "bro_flow",
+      "description": "Rambut panjang mengalir natural dengan volume di samping. Memperlebar tampilan wajah yang panjang.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "long",
+        "natural",
+        "widening"
+      ],
+      "images": [
+        "oblong/bro_flow/bro_flow_1.jpg",
+        "oblong/bro_flow/bro_flow_2.jpg",
+        "oblong/bro_flow/bro_flow_3.jpg"
+      ]
+    },
+    {
+      "name": "Disconnected Undercut",
+      "slug": "disconnected_undercut",
+      "description": "Kontras ekstrem antara sisi dan atas. Volume di samping membantu memperlebar tampilan wajah.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "modern",
+        "bold",
+        "widening"
+      ],
+      "images": [
+        "oblong/disconnected_undercut/disconnected_undercut_1.jpg",
+        "oblong/disconnected_undercut/disconnected_undercut_2.jpg",
+        "oblong/disconnected_undercut/disconnected_undercut_3.jpg"
+      ]
+    },
+    {
+      "name": "Side Swept",
+      "slug": "side_swept",
+      "description": "Rambut menyapu ke samping dengan poni yang memotong panjang wajah secara visual.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "classic",
+        "soft",
+        "shortening"
+      ],
+      "images": [
+        "oblong/side_swept/side_swept_1.jpg",
+        "oblong/side_swept/side_swept_2.jpg",
+        "oblong/side_swept/side_swept_3.jpg"
+      ]
+    },
+    {
+      "name": "Taper Fade",
+      "slug": "taper_fade",
+      "description": "Fade bertahap di sisi dengan volume natural di atas. Modern dan versatile untuk semua kesempatan.",
+      "hair_type": [
+        "lurus",
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "modern",
+        "fade",
+        "versatile"
+      ],
+      "images": [
+        "oblong/taper_fade/taper_fade_1.jpg",
+        "oblong/taper_fade/taper_fade_2.jpg",
+        "oblong/taper_fade/taper_fade_3.jpg"
+      ]
+    }
+  ],
+  "diamond": [
+    {
+      "name": "Textured Fringe",
+      "slug": "fringe",
+      "description": "Poni bertekstur yang memperlebar tampilan dahi yang sempit. Cocok untuk menyeimbangkan tulang pipi yang menonjol.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "modern",
+        "fringe",
+        "balanced"
+      ],
+      "images": [
+        "diamond/fringe/fringe_1.jpg",
+        "diamond/fringe/fringe_2.jpg",
+        "diamond/fringe/fringe_3.jpg"
+      ]
+    },
+    {
+      "name": "Layered Medium",
+      "slug": "layered_medium",
+      "description": "Panjang sedang dengan layer di sekitar wajah yang melembutkan tulang pipi yang menonjol.",
+      "hair_type": [
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "medium",
+        "layered",
+        "soft"
+      ],
+      "images": [
+        "diamond/layered_medium/layered_medium_1.jpg",
+        "diamond/layered_medium/layered_medium_2.jpg",
+        "diamond/layered_medium/layered_medium_3.jpg"
+      ]
+    },
+    {
+      "name": "Quiff",
+      "slug": "quiff",
+      "description": "Volume di atas memperlebar tampilan dahi yang sempit dan menyeimbangkan tulang pipi yang dominan.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "volume",
+        "styled",
+        "balanced"
+      ],
+      "images": [
+        "diamond/quiff/quiff_1.jpg",
+        "diamond/quiff/quiff_2.jpg",
+        "diamond/quiff/quiff_3.jpg"
+      ]
+    },
+    {
+      "name": "Shaggy Cut",
+      "slug": "shaggy_cut",
+      "description": "Potongan acak berlapis yang menutupi pipi dan menciptakan tampilan lebih seimbang secara keseluruhan.",
+      "hair_type": [
+        "bergelombang",
+        "keriting"
+      ],
+      "tags": [
+        "layered",
+        "casual",
+        "balanced"
+      ],
+      "images": [
+        "diamond/shaggy_cut/shaggy_cut_1.jpg",
+        "diamond/shaggy_cut/shaggy_cut_2.jpg",
+        "diamond/shaggy_cut/shaggy_cut_3.jpg"
+      ]
+    },
+    {
+      "name": "Side Part",
+      "slug": "side_part",
+      "description": "Belahan samping dengan volume di atas yang memperlebar tampilan dahi dan menyeimbangkan proporsi wajah.",
+      "hair_type": [
+        "lurus",
+        "bergelombang"
+      ],
+      "tags": [
+        "classic",
+        "volume",
+        "balanced"
+      ],
+      "images": [
+        "diamond/side_part/side_part_1.jpg",
+        "diamond/side_part/side_part_2.jpg",
+        "diamond/side_part/side_part_3.jpg"
+      ]
+    }
+  ]
+}
