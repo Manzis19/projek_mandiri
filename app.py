@@ -40,7 +40,7 @@ HTML_TEMPLATE = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <meta name="theme-color" content="#09090b">
     <script>document.documentElement.classList.add('js');</script>
-    <title>Hairstyle AI &middot; Rekomendasi Gaya Rambut</title>
+    <title>LOOKPAS &middot; Find the look that's pas for you.</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -242,8 +242,8 @@ HTML_TEMPLATE = """
                     <div class="absolute inset-x-0 bottom-0 h-1.5 bg-gradient-to-t from-black/40 to-transparent"></div>
                 </div>
                 <div class="leading-tight min-w-0">
-                    <h1 class="text-lg md:text-xl font-bold text-white tracking-tight font-display truncate">Hairstyle AI</h1>
-                    <p class="text-[11px] md:text-xs text-barber-steel/80 font-medium -mt-0.5 truncate tracking-wide uppercase">Barbershop &middot; Face Analysis</p>
+                    <h1 class="text-lg md:text-xl font-bold text-white tracking-tight font-display truncate">LOOKPAS</h1>
+                    <p class="text-[11px] md:text-xs text-barber-steel/80 font-medium -mt-0.5 truncate tracking-wide uppercase">Find the look that's pas for you.</p>
                 </div>
             </div>
             <span class="hidden sm:inline-flex items-center gap-2 text-[11px] md:text-xs font-semibold text-zinc-300 bg-white/5 border border-white/10 px-3 py-1.5 rounded-full shrink-0">
@@ -261,7 +261,7 @@ HTML_TEMPLATE = """
                 Temukan Gaya Rambut <br class="hidden sm:block"> yang <span class="aurora italic">Paling Ideal</span>
             </h2>
             <p class="reveal text-zinc-400 max-w-2xl mx-auto text-sm md:text-lg px-1 leading-relaxed" style="animation-delay:.16s">
-                Sistem kami menganalisis struktur dan proporsi wajahmu menggunakan 468 titik landmark (MediaPipe FaceMesh), lalu merekomendasikan potongan rambut yang paling menonjolkan fiturmu.
+                Find the look that's pas for you. Sistem kami menganalisis struktur dan proporsi wajahmu menggunakan 468 titik landmark (MediaPipe FaceMesh), lalu merekomendasikan potongan rambut yang paling menonjolkan fiturmu.
             </p>
         </div>
 
@@ -590,7 +590,7 @@ HTML_TEMPLATE = """
         <div class="max-w-5xl mx-auto px-4 text-center">
             <div class="flex items-center justify-center gap-2 mb-2 text-zinc-200">
                 <i class="fa-solid fa-scissors text-barber-red"></i>
-                <span class="font-semibold font-display">Hairstyle Recommender System</span>
+                <span class="font-semibold font-display">LOOKPAS</span>
             </div>
             <p class="text-zinc-500 text-sm font-medium">
                 Proyek Pengolahan Citra Digital &middot; &copy; 2026 &middot; All rights reserved.

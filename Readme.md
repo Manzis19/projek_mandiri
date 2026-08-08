@@ -1,6 +1,6 @@
-# Hairstyle Recommender System
+# LOOKPAS
 
-Aplikasi berbasis kecerdasan buatan (AI) dan *Computer Vision* yang dapat mendeteksi bentuk wajah seseorang dan memberikan rekomendasi gaya rambut paling ideal yang sesuai dengan proporsi wajah tersebut. Aplikasi ini menyediakan antarmuka web interaktif yang memungkinkan pengguna untuk mengunggah foto atau menggunakan kamera secara *real-time*.
+LOOKPAS adalah aplikasi berbasis kecerdasan buatan (AI) dan *Computer Vision* yang dapat mendeteksi bentuk wajah seseorang dan memberikan rekomendasi gaya rambut paling ideal yang sesuai dengan proporsi wajah tersebut. Dengan slogan “Find the look that's pas for you.”, aplikasi ini menyediakan antarmuka web interaktif yang memungkinkan pengguna untuk mengunggah foto atau menggunakan kamera secara *real-time*.
 
 ## 🚀 Fitur Utama
 
